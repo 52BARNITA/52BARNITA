@@ -20,5 +20,9 @@ A simple Job Portal web app built using JavaScript.
 - Event handling
 - UI state management
 
+## Screenshots
+
+![Job Portal UI](assets/screenshot1.png)
+
 ## Author
 Barnita Paul
